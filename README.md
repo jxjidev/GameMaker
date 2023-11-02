@@ -1,6 +1,5 @@
-# GameMaker Munkus Funkus
-
-Titulo: Munkus Funkus 
+# GameMaker DC Cookie Adventure
+Titulo: DC Cookie Adventure
 
 Categorias: Ação e Aventura 
 
@@ -16,7 +15,7 @@ Plataformas: Steam
 
 Concorrentes: MoonLeap, Celeste e DeadCells 
 
-História:PlushiePaws, o adorável plushie com uma paixão insaciável por cookies, havia conseguido chegar ao coração do QG dos Vilões. Ele estava cercado por vilões comuns, cada um determinado a proteger os cookies roubados. Os olhos de PlushiePaws brilhavam de determinação enquanto ele enfrentava os obstáculos em seu caminho. 
+História: PlushiePaws, o adorável plushie com uma paixão insaciável por cookies, havia conseguido chegar ao coração do QG dos Vilões. Ele estava cercado por vilões comuns, cada um determinado a proteger os cookies roubados. Os olhos de PlushiePaws brilhavam de determinação enquanto ele enfrentava os obstáculos em seu caminho. 
 
 No centro da sala, os cookies estavam empilhados em grandes montes, tentadores e irresistíveis. PlushiePaws sabia que estava perto de alcançar seu objetivo, mas a batalha estava prestes a atingir seu clímax. Os vilões comuns avançaram, preparados para lutar até o fim para proteger seu tesouro. 
 
